@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Firebasepractice</string>
+    <string name="angel_bt">Angel</string>
+    <string name="donate_bt">Donate</string>
+    <string name="angel_email">Email</string>
+    <string name="angel_pass">Password</string>
+    <string name="donate_email">Email</string>
+    <string name="donate_password">Password</string>
+    <string name="ange_singin_bt">Sign in</string>
+    <string name="angel_signin_reg">Register</string>
+    <string name="donate_signin_signin">Signin</string>
+    <string name="donate_signin_reg">Register</string>
+    <string name="angel_home_Welcome">Welcome Angel</string>
+    <string name="donator_home_welcome">Wecome donator</string>
+    <string name="title_activity_angel_map">AngelMapActivity</string>
+    <string name="angel_home_nearbyDonator_bt">Nearby Donators</string>
+    <string name="title_activity_donator_map">DonatorMap</string>
+    <string name="donato_home_donateFood">Donate Food</string>
+    <string name="donatorHome_DonateClothes">Donate Clothes</string>
+    <string name="donatorHome_donatemoney">Donate Money</string>
+    <string name="donatorMap_setLocation">Set Location</string>
+</resources>
